@@ -1,2 +1,2 @@
 # ECoG2Speech
-Neural speech decoding
+This study introduces a novel neural decoding framework that leverages diffusion probabilistic models to generate synthetic neural data, effectively addressing the persistent challenge of limited training samples while enhancing overall decoding performance. The proposed system employs an automatic hybrid feature extraction architecture that combines convolutional neural networks and bidirectional long short-term memory networks to capture complex spatio-temporal neural patterns from neural signals. Furthermore, the framework incorporates a multi-domain loss function that integrates time-domain, frequency-domain, and perceptual constraints to optimize reconstruction fidelity across multiple signal characteristics.
